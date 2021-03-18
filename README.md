@@ -1,1 +1,1 @@
-[https://ashton-kochnev.github.io/pulse/]
+[link](https://ashton-kochnev.github.io/pulse/)
